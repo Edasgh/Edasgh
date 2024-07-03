@@ -13,7 +13,7 @@
 
 - 👋 Hi , I'm Eshita Das
 - 👀 I like to explore technologies related to Web Development (specially MERN Stack)
-- 🌱 Currently I'm learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> PHP, C Language and some technologies like, WebSockets and looking forward to learn WebRTC
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently I'm learning PHP, C Language and some technologies like, WebSockets and looking forward to learn WebRTC
 - ✉️ My Email : edas25564@gmail.com
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Eshita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eshita-das-084b962b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp3b4%2BkSlQH%2BWd%2BMqs5DsMg%3D%3D)
 
