@@ -14,6 +14,7 @@
 - 👋 Hi , I'm Eshita Das
 - 👀 I like to explore technologies related to Web Development (specially MERN Stack)
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently I'm learning PHP, C Language and some technologies like, WebSockets and looking forward to learn WebRTC
+- 🌱 AI/ML Enthusiast
 - ✉️ My Email : edas25564@gmail.com
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Eshita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eshita-das-084b962b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp3b4%2BkSlQH%2BWd%2BMqs5DsMg%3D%3D)
 
@@ -31,10 +32,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB"  alt="mongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="SocketIo" alt="SocketIo" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="SocketIo" alt="SocketIo" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS_Code" alt="VS_Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 
-  
 </p>
 
 ---
