@@ -50,6 +50,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
 </div>
 
+[![An image of @edasgh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/edasgh)](https://holopin.io/@edasgh)
+
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Edasgh&theme=dark&background=000000)](https://git.io/streak-stats)
 
