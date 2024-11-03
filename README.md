@@ -19,6 +19,7 @@
 
 <details>
 <summary><b>🛠 &nbsp;Languages and Tools :</b></summary>
+<br>
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -41,6 +42,7 @@
 ---
 <details>
 <summary><b>GSSOC(24)-EXTD Badges 🪶</b></summary>
+<br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
