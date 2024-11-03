@@ -66,7 +66,7 @@
 
 <div style="display:flex; gap:4px; justify-content:center; align-items:center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Edasgh&theme=dark&background=000000)](https://git.io/streak-stats)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edasgh&theme=great_gatsby)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edasgh&theme=great_gatsby)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edasgh&theme=great_gatsby)
 
 
 
@@ -74,7 +74,7 @@
 
 <div style="display:flex; gap:4px; justify-content:center; align-items:center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edasgh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edasgh&theme=great_gatsby)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Edasgh&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edasgh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
