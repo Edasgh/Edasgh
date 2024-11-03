@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm <a href="https://www.linkedin.com/in/eshita-das-084b962b0/">Eshita Das</a></h1>
 
 **:woman_technologist: &nbsp;About Me :** <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611kgygqgc3kztd2eu1zlo5bafjjb8tb6zr7n7ny5ni&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" height="350" align="right"   />
 
@@ -17,7 +17,6 @@
 - ✉️ My Email : edas25564@gmail.com
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Eshita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eshita-das-084b962b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp3b4%2BkSlQH%2BWd%2BMqs5DsMg%3D%3D)
 
----
 <details>
 <summary><b>🛠 &nbsp;Languages and Tools :</b></summary>
 
