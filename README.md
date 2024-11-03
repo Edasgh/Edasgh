@@ -8,8 +8,7 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-**:woman_technologist: &nbsp;About Me :** <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611kgygqgc3kztd2eu1zlo5bafjjb8tb6zr7n7ny5ni&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" align="right"   />
-
+**:woman_technologist: &nbsp;About Me :** <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611kgygqgc3kztd2eu1zlo5bafjjb8tb6zr7n7ny5ni&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" height="350" align="right"   />
 
 - 👋 Hi , I'm Eshita Das
 - 👀 I like to explore technologies related to Web Development (specially MERN Stack)
@@ -19,7 +18,8 @@
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Eshita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eshita-das-084b962b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp3b4%2BkSlQH%2BWd%2BMqs5DsMg%3D%3D)
 
 ---
-### 🛠 &nbsp;Languages and Tools :
+<details>
+<summary><b>🛠 &nbsp;Languages and Tools :</b></summary>
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -37,9 +37,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS_Code" alt="VS_Code" width="40" height="40"/>&nbsp;
 
 </p>
+</details>
 
 ---
-## GSSOC(24)-EXTD Badges 🪶
+<details>
+<summary><b>GSSOC(24)-EXTD Badges 🪶</b></summary>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -48,6 +50,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
 </div>
+</details>
 
 [![An image of @edasgh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/edasgh)](https://holopin.io/@edasgh)
 
