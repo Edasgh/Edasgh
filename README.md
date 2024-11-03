@@ -66,8 +66,7 @@
 
 <div style="display:flex; gap:4px; justify-content:center; align-items:center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edasgh&theme=great_gatsby)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edasgh&theme=great_gatsby)
-
+<img height="155em" src="https://camo.githubusercontent.com/8bb5b227462f06f5f1a972c088322c28be9ecda04f539994dff1932fe25243c2/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d456461736768267468656d653d67726561745f676174736279" alt="Edasgh github stats" /><img height="155em" src="[https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg](https://camo.githubusercontent.com/e55a89b082aae653176c1bad565be75a60556ff85b2b7125164dc2eeec7c5668/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d456461736768267468656d653d67726561745f676174736279)" alt="Edasgh github stats" />
 
 
 </div>
