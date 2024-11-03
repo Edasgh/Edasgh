@@ -59,9 +59,12 @@
 [![An image of @edasgh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/edasgh)](https://holopin.io/@edasgh)
 
 </details>
+
 ### 🔥 &nbsp; My Stats :
+<div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Edasgh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edasgh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
