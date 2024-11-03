@@ -43,7 +43,7 @@
 </p>
 </details>
 
----
+
 <details>
 <summary><b>GSSOC(24)-EXTD Badges 🪶</b></summary>
 <br>
@@ -57,7 +57,7 @@
 </div>
 </details>
 
----
+
 
 <details> <summary> <b> Hacktoberfest'24 Badges </b> </summary>
 
