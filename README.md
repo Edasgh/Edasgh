@@ -4,7 +4,7 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm <a href="https://www.linkedin.com/in/eshita-das-084b962b0/" target="_blank" >Eshita Das</a></h1>
 
-**:woman_technologist: &nbsp;About Me :** <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611kgygqgc3kztd2eu1zlo5bafjjb8tb6zr7n7ny5ni&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" height="380" align="right"   />
+**:woman_technologist: &nbsp;About Me :** <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611kgygqgc3kztd2eu1zlo5bafjjb8tb6zr7n7ny5ni&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" height="390" align="right"   />
 
 - 👋 Hi , I'm Eshita Das
 - 👀 I like to explore technologies related to Web Development (specially MERN Stack)
@@ -53,7 +53,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 </details>
-------
+
+---
 
 ### Hacktoberfest'24 Badges 
 
