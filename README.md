@@ -74,7 +74,8 @@
 
 <div style="display:flex; gap:4px; justify-content:center; align-items:center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Edasgh&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edasgh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Edasgh&theme=dark&card_width=490&card_height=190" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edasgh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
