@@ -53,10 +53,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 </details>
-
-
-<br>
-<br>
+------
 
 ### Hacktoberfest'24 Badges 
 
