@@ -1,9 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif?cid=ecf05e47h2ifedv3pfrmf6ktz3vbju6h6gcv7gt2e5b4wixc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="160"/>
-</div>
-<p align="center">
-<a href="https://www.linkedin.com/in/eshita-das-084b962b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp3b4%2BkSlQH%2BWd%2BMqs5DsMg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+<img src="https://camo.githubusercontent.com/1bf6ed158eef4ab150c095f8e2b419384f4bacffe8fe8cc103dc3cf8e24b52c3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d363439394539266865696768743d39302673656374696f6e3d686561646572">
+<br>
 
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm <a href="https://www.linkedin.com/in/eshita-das-084b962b0/" target="_blank" >Eshita Das</a></h1>
