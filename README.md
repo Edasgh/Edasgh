@@ -54,12 +54,14 @@
 </details>
 
 
+<br>
+<br>
 
-<details> <summary> <b> Hacktoberfest'24 Badges </b> </summary>
+### Hacktoberfest'24 Badges 
 
 [![An image of @edasgh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/edasgh)](https://holopin.io/@edasgh)
 
-</details>
+
 
 ---
 
