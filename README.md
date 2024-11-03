@@ -73,9 +73,5 @@
 
 
 ---
- <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/Edasgh">
-   <img height="155em" src="https://raw.githubusercontent.com/Edasgh/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Edasgh github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/Edasgh/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Edasgh github stats" />
-<br>
+
      
