@@ -67,6 +67,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edasgh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edasgh&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edasgh&theme=github_dark)
+
 
 ---
 
