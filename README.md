@@ -74,7 +74,7 @@
 
 <div style="display:flex; gap:4px; justify-content:center; align-items:center">
 
-![Edasgh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edasgh&theme=highcontrast&hide_border=true)
+![Edasgh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edasgh&theme=highcontrast&hide_border=true) ![Edasgh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edasgh&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
