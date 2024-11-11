@@ -15,6 +15,7 @@
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Eshita-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eshita-das-084b962b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp3b4%2BkSlQH%2BWd%2BMqs5DsMg%3D%3D)
 
 <br>
+<br>
 <details>
 <summary><b>🛠 &nbsp;Languages and Tools :</b></summary>
 <br>
@@ -41,6 +42,8 @@
 </details>
 
 
+<br>
+<br>
 <details>
 <summary><b> ✨✨ GSSOC(24)-EXTD ✨✨ </b></summary>
 <br>
