@@ -44,9 +44,9 @@
 <details>
 <summary><b>GSSOC(24)-EXTD </b></summary>
 <br>
-<div>
+
 ![GSSoC24_Stats](https://github.com/user-attachments/assets/028e12b7-cd5d-42a8-bd71-0218adbc2a88)
-</div>
+
 </details>
 
 <br>
