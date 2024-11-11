@@ -8,7 +8,7 @@
 **:woman_technologist: &nbsp;About Me :** <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611kgygqgc3kztd2eu1zlo5bafjjb8tb6zr7n7ny5ni&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" height="390" align="right"   />
 
 - 👋 Hi , I'm Eshita Das
-- 👀 I like to explore technologies related to Web Development (specially MERN Stack) and I love 🖥️ open source contrinuting
+- 👀 I like to explore technologies related to Web Development (specially MERN Stack) and I love 🖥️ contributing to open source
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently I'm learning PHP, C Language and some technologies like, WebSockets and looking forward to learn WebRTC
 - 🌱 AI/ML Enthusiast
 - 😄 Fun Fact : I mostly do development and problem solving. And in my free time, I go to college.
