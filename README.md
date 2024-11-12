@@ -50,7 +50,7 @@
 
 
 <details>
-<summary><b> ✨✨ GSSOC(24)-EXTD [Rank 87](Top 100 Contributors) ✨✨ </b></summary>
+<summary><b> ✨✨ GSSOC(24)-EXTD [Rank 87](In Top 100 Contributors) ✨✨ </b></summary>
 <br>
 
 ![GSSoC24_Stats (1)](https://github.com/user-attachments/assets/2e502c12-4872-47ae-b1b9-4b8159e7d409)
