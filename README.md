@@ -67,8 +67,8 @@
 
 
 ---
-
-### 🔥 &nbsp; My Stats :
+<details>
+<summary> 🔥 &nbsp; My Stats </summary>
 
  <div align="center">
     
@@ -79,7 +79,7 @@
 |:---:|:---:|
 
 </div>
-
+</details>
 
 
 
