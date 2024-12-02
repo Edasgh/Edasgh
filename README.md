@@ -70,7 +70,8 @@
 
 ### 🔥 &nbsp; My Stats :
 
-<div align="center">
+ <div align="center">
+    
 | <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edasgh&theme=highcontrast&hide_border=true" alt="GitHub Stats" />  | <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edasgh&theme=highcontrast&hide_border=true" alt="Top Languages" /> |<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=highcontrast&hide_border=true"> |
 |:---:|:---:|:---:|
     
