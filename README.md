@@ -68,7 +68,7 @@
 
 ---
 <details>
-<summary> <h2>🔥 &nbsp; My Stats</h2> </summary>
+<summary> <h2> :octocat:  My Github Stats</h2> </summary>
 <br>
 
  <div align="center">
