@@ -71,11 +71,10 @@
 ### 🔥 &nbsp; My Stats :
 
 <div align="center">
-| <img align="center" width="600em" src="https://camo.githubusercontent.com/04aba4091879cf8f3a04c33d8119b6b82768338e1f353e4e271050c1afe36089/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d456461736768267468656d653d68696768636f6e7472617374" alt="Edasgh github stats" /> |<img align ="center" width="600em" src="https://camo.githubusercontent.com/4495c2c990150e090a1ba15d89697198e80ef7c510980c98d925e76434acfafb/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d456461736768267468656d653d68696768636f6e7472617374" alt="Edasgh github stats" /> |
+| <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edasgh&theme=highcontrast&hide_border=true" alt="GitHub Stats" />  | <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edasgh&theme=highcontrast&hide_border=true" alt="Top Languages" /> |<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=highcontrast&hide_border=true"> |
 |:---:|:---:|:---:|
-
-
-| <img align="center" width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edasgh&theme=highcontrast&hide_border=true" /> <img align="center" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edasgh&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" /> | <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=Edasgh&bg_color=000000&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true"> |
+    
+| <img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edasgh&theme=highcontrast&hide_border=true" alt="Graph of Commits" /> | <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=Edasgh&bg_color=000000&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true"> |
 |:---:|:---:|
 
 </div>
