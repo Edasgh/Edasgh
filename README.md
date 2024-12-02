@@ -67,7 +67,7 @@
 
 
 ---
-<details>
+<details open>
 <summary> <b> :octocat:  My Github Stats</b> </summary>
 <br>
 
