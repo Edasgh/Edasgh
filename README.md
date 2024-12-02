@@ -68,7 +68,7 @@
 
 ---
 <details>
-<summary> <b>🔥 &nbsp; My Stats</b> </summary>
+<summary> <h2>🔥 &nbsp; My Stats</h2> </summary>
 <br>
 
  <div align="center">
