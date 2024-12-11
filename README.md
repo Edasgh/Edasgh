@@ -59,7 +59,8 @@
 <br>
 
 <details open>
-<summary> <b style="font-size:1.3rem;">Hacktoberfest'24 Badges</b> </summary>
+<summary> <b style="font-size:1.4rem;">&nbsp;Hacktoberfest'24 Badges</b> </summary>
+<br>
 
 [![An image of @edasgh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/edasgh)](https://holopin.io/@edasgh)
 
@@ -68,7 +69,7 @@
 
 ---
 <details open>
-<summary> <b> :octocat:  My Github Stats</b> </summary>
+<summary> <b style="font-size:1.2rem;"> :octocat:  My Github Stats</b> </summary>
 <br>
 
  <div align="center">
