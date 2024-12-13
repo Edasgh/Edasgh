@@ -10,7 +10,6 @@
 - 👋 Hi , I'm Eshita Das
 - 👀 I like to explore technologies related to Web Development (specially MERN Stack) and I love 🖥️ contributing to open source
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently I'm learning PHP, C Language with DSA and some technologies like, WebSockets and WebRTC
-- 🌱 AI/ML Enthusiast
 - 😄 Fun Fact : I mostly do development and problem solving. And in my free time, I go to college.
 
 <br>
