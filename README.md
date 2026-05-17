@@ -3,7 +3,7 @@
 <!--![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)-->
 
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm <a href="https://eshitadas-portfolio.vercel.app/" target="_blank" >Eshita Das</a></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm <a href="https://edasgh-dev-portfolio.vercel.app/" target="_blank" >Eshita Das</a></h1>
 
 **:woman_technologist: &nbsp;About Me :** <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611kgygqgc3kztd2eu1zlo5bafjjb8tb6zr7n7ny5ni&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="320" height="370" align="right"   />
 
